@@ -1,0 +1,122 @@
+/* General Styling */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    line-height: 1.6;
+    background-color: #f9f9f9;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+/* Header */
+header {
+    background-color: #28a745;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Navigation */
+nav {
+    background: #f4f4f4;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: #333;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #28a745;
+}
+
+/* Section Styling */
+section {
+    padding: 20px;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+/* Image Styling */
+.image {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.image img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+/* Call-to-Action (CTA) */
+.cta {
+    background: #28a745;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin: 20px 0;
+    border-radius: 8px;
+}
+
+.cta a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.cta a:hover {
+    background: #218838;
+}
+
+/* Card Component */
+.card {
+    background: white;
+    padding: 15px;
+    border: 1px solid #ddd;
+    margin: 15px 0;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.card h3 {
+    margin-top: 0;
+}
+
+/* Contact Section */
+.contact {
+    text-align: center;
+    margin: 20px 0 60px;
+}
+
+.contact a {
+    display: inline-block;
+    padding: 10px 20px;
+    color: white;
+    background: #28a745;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.contact a:hover {
+    background: #218838;
+}
+
+/* Footer */
+footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: static;
+    width: 100%;
+}
