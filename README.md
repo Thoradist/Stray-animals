@@ -1,2 +1,2 @@
 # Stray-animals
-[View the website here!](https://username.github.io/repository-name/)
+[View the website here!](file:///C:/Users/Hung2/Desktop/stray_pets_oc.html)
